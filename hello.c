@@ -12,6 +12,9 @@
 
      printf("Jeremiah Sanford!\n");
      printf("Computer engineering\n");
+     
+     printf("Ryan Nyffeler!\n");
+     printf("Finance and Economics\n");
 
      return 0;
  }
